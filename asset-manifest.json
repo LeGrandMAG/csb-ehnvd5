@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://legrandmag.github.io/csb-ehnvd5/static/css/main.5a7d619d.chunk.css",
-    "main.js": "https://legrandmag.github.io/csb-ehnvd5/static/js/main.6de34a0f.chunk.js",
-    "main.js.map": "https://legrandmag.github.io/csb-ehnvd5/static/js/main.6de34a0f.chunk.js.map",
+    "main.js": "https://legrandmag.github.io/csb-ehnvd5/static/js/main.c71cd36b.chunk.js",
+    "main.js.map": "https://legrandmag.github.io/csb-ehnvd5/static/js/main.c71cd36b.chunk.js.map",
     "runtime-main.js": "https://legrandmag.github.io/csb-ehnvd5/static/js/runtime-main.b6786805.js",
     "runtime-main.js.map": "https://legrandmag.github.io/csb-ehnvd5/static/js/runtime-main.b6786805.js.map",
     "static/js/2.6ecf4a93.chunk.js": "https://legrandmag.github.io/csb-ehnvd5/static/js/2.6ecf4a93.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b6786805.js",
     "static/js/2.6ecf4a93.chunk.js",
     "static/css/main.5a7d619d.chunk.css",
-    "static/js/main.6de34a0f.chunk.js"
+    "static/js/main.c71cd36b.chunk.js"
   ]
 }
